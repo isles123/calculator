@@ -1,0 +1,2 @@
+# calculator
+Small calculator project 
